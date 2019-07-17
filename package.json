@@ -1,0 +1,44 @@
+{
+  "name": "react-dial-button",
+  "version": "1.0.0",
+  "description": "React Dial Button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salgum1114/react-dial-button.git"
+  },
+  "keywords": [
+    "react",
+    "dial-button"
+  ],
+  "author": "salgum1114",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salgum1114/react-dial-button/issues"
+  },
+  "homepage": "https://github.com/salgum1114/react-dial-button#readme",
+  "typings": "lib/index.d.ts",
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-dom": ">=16.0.0"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.3.2",
+    "warning": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/classnames": "^2.2.9",
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "@types/styled-components": "^4.1.18",
+    "@types/warning": "^3.0.0",
+    "typescript": "^3.5.3"
+  }
+}
